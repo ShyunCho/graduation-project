@@ -10,3 +10,4 @@ public class map_controller {
         return "map_main";
     }
 }
+
